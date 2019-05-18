@@ -13,6 +13,7 @@ import java.io.Serializable;
  * @create: 2019-05-15 21:09
  **/
 @Entity
+//分支代码
 
 public class User implements Serializable {
 
