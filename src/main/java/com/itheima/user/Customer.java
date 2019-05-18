@@ -6,7 +6,8 @@ package com.itheima.user;
  * @author: NeoLuo
  * @create: 2019-05-18 16:54
  **/
-//zhixian
+//主线
 public class Customer {
     private Integer el;
+    //主线
 }
