@@ -8,4 +8,5 @@ package com.itheima.user;
  **/
 //zhixian
 public class Customer {
+    private Integer el;
 }
