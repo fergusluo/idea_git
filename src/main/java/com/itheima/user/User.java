@@ -14,6 +14,7 @@ import java.io.Serializable;
  **/
 @Entity
 //主线
+//分支代码
 
 public class User implements Serializable {
 
