@@ -12,6 +12,7 @@ import java.io.Serializable;
  * @author: NeoLuo
  * @create: 2019-05-15 21:09
  **/
+@Entity
 public class User implements Serializable {
 
     @Id
